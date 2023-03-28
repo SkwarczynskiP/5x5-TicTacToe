@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "CodeLab14_8a33b265",
+            "vmArgs": "--module-path 'C:\\MY STUFF\\Winter 2023\\CSI 2300\\javafx-sdk-19\\lib' --add-modules javafx.controls,javafx.graphics,javafx.fxml,javafx.base,javafx.media,javafx.swing,javafx.web"
+        }
+    ]
+}
